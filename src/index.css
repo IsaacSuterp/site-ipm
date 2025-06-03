@@ -1,0 +1,9 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply font-sans antialiased text-ipm-gray-dark;
+  /* Outros estilos globais, se necessário */
+}
